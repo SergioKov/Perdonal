@@ -1,2 +1,2 @@
-# Personal
+# Personal training 
 My own repository
