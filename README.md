@@ -1,2 +1,2 @@
-# Perdonal
+# Personal
 My own repository
